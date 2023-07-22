@@ -1,0 +1,6 @@
+name: RotationFixer
+version: 0.1
+author: MasterDash5
+main: xyz.dashnetwork.rotationfixer.RotationFixer
+depend: [ProtocolLib]
+api-version: 1.18
